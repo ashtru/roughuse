@@ -536,6 +536,7 @@ return array(
     'net\\authorize\\api\\contract\\v1\\CustomerPaymentProfileType' => $baseDir . '/lib/net/authorize/api/contract/v1/CustomerPaymentProfileType.php',
     'net\\authorize\\api\\contract\\v1\\CustomerProfileBaseType' => $baseDir . '/lib/net/authorize/api/contract/v1/CustomerProfileBaseType.php',
     'net\\authorize\\api\\contract\\v1\\CustomerProfileExType' => $baseDir . '/lib/net/authorize/api/contract/v1/CustomerProfileExType.php',
+    'net\\authorize\\api\\contract\\v1\\CustomerProfileIdType' => $baseDir . '/lib/net/authorize/api/contract/v1/CustomerProfileIdType.php',
     'net\\authorize\\api\\contract\\v1\\CustomerProfileMaskedType' => $baseDir . '/lib/net/authorize/api/contract/v1/CustomerProfileMaskedType.php',
     'net\\authorize\\api\\contract\\v1\\CustomerProfilePaymentType' => $baseDir . '/lib/net/authorize/api/contract/v1/CustomerProfilePaymentType.php',
     'net\\authorize\\api\\contract\\v1\\CustomerProfileSummaryType' => $baseDir . '/lib/net/authorize/api/contract/v1/CustomerProfileSummaryType.php',
